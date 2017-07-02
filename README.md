@@ -13,5 +13,6 @@ Basic project to explore the features of git and GitHub.
 
 ## Collaboration
 
-* git branch
-* git checkout
+* git branch <branch-name>
+* git checkout <branch-name>
+* git merge <target-branch>
