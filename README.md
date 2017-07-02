@@ -1,5 +1,7 @@
 # Git Practice
 
+Basic project to explore the features of git and GitHub.
+
 ## Basic Commands
 
 * git init
