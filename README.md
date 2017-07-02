@@ -1,7 +1,6 @@
-Git Practice
-============
+# Git Practice
 
-** Basic Commands
+## Basic Commands
 
 * git init
 * git status
@@ -10,4 +9,4 @@ Git Practice
 * git push
 * git pull
 
-** Collaboration
+## Collaboration
