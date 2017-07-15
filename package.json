@@ -1,0 +1,29 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "Basic project to explore the features of git and GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-laws/git-practice.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Robert Laws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-laws/git-practice/issues"
+  },
+  "homepage": "https://github.com/robert-laws/git-practice#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "materialize-css": "^0.99.0"
+  }
+}
