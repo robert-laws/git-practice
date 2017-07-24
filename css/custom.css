@@ -1,0 +1,8 @@
+/* Custom CSS File  */
+
+#colSection div.col {
+  background-color: green;
+  color: #FFF;
+
+  border: 1px dashed #000;
+}
